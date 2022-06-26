@@ -20,7 +20,6 @@
 - The day you keep Sabbath does not matter
 - What about the Lord's day?
 * Introduction
-A PDF version of this article is available [[asset:assets/sabbath/sabbath.pdf][here]]
 
 The Sabbath is something which many Christians have been unaware of. It is a
 blessing that I believe many Christians need in order to operate wholly in the
@@ -32,6 +31,8 @@ I hope this article is edifying and, considering it is quote long, a good
 reference for anyone curious about the Sabbath or wanting to know the reasons to
 follow it! I am open to questions, you can send me an email at
 joshministers@gmail.com or send me a message on instagram @josh.ministers
+
+A PDF version of this article is available as a reference [[asset:assets/sabbath/sabbath.pdf][here]].
 
 Hope You're Blessed!
 
@@ -233,8 +234,7 @@ terms of sacrifice. This is a list of many of the occurences in the old
 testament where the triplet of "Sabbaths, New Moons and feats" appear in the old
 testament, and all of them are refering to sacrifice:
 
-[[https://www.biblegateway.com/passage/?search=Ezekiel+45%3A17&version=NKJV][Ezekiel 45:17]], [[https://www.biblegateway.com/passage/?search=2+Chronicles+2%3A4&version=NIV][2 Chronicles 2:4]], [[https://www.biblegateway.com/passage/?search=2+Chronicles+8%3A12-13&version=NIV][2 Chronicles 8:12-13]], [[https://www.biblegateway.com/passage/?search=2+Chronicles+8%3A12-13&version=NIV][2 Chronicles
-31:3]], [[https://www.biblegateway.com/passage/?search=Hosea+2%3A11&version=NKJV][Hosea 2:11]], [[https://www.biblegateway.com/passage/?search=Nehemiah+10%3A33&version=NIV][Nehemiah 10:33]], [[https://www.biblegateway.com/passage/?search=1+Chronicles+23%3A31&version=NKJV][1 Chronicles 23:31]]
+[[https://www.biblegateway.com/passage/?search=Ezekiel+45%3A17&version=NKJV][Ezekiel 45:17]], [[https://www.biblegateway.com/passage/?search=2+Chronicles+2%3A4&version=NIV][2 Chronicles 2:4]], [[https://www.biblegateway.com/passage/?search=2+Chronicles+8%3A12-13&version=NIV][2 Chronicles 8:12-13]], [[https://www.biblegateway.com/passage/?search=2+Chronicles+31%3A3&version=NIV][2 Chronicles 31:3]], [[https://www.biblegateway.com/passage/?search=Hosea+2%3A11&version=NKJV][Hosea 2:11]], [[https://www.biblegateway.com/passage/?search=Nehemiah+10%3A33&version=NIV][Nehemiah 10:33]], [[https://www.biblegateway.com/passage/?search=1+Chronicles+23%3A31&version=NKJV][1 Chronicles 23:31]]
 
 The only one of these verses where it is not explicitly clear and doesn't say
 a sacrificial term specifically is [[https://www.biblegateway.com/passage/?search=Hosea+2%3A11&version=NKJV][Hosea 2:11]], but we can infer from the fact
@@ -250,7 +250,7 @@ place in the new testament that refers to shadow in the same sense, and that's
 in [[https://www.biblegateway.com/passage/?search=Hebrews+10&version=NKJV][Hebrews 10:1-10]]. I'll paste part of it below, but you can read the entire
 passage and see how it refers to sacrifice.
 
-*Hebrews 10:1-4*
+*[[https://www.biblegateway.com/passage/?search=Hebrews+10%3A1-4&version=NKJV][Hebrews 10:1-4]]*
 #+begin_quote
 For the law, having a shadow of the good things to come, and not the very image
 of the things, can never with these same sacrifices, which they offer
@@ -323,7 +323,7 @@ An argument that has been made is that Jesus abolished the law, including the 10
 commandments on the cross. However, we see Jesus teaching people to obey the 10
 commandments throughout his ministry.
 
-*[[https://www.biblegateway.com/passage/?search=Matthew+19%3A16-18&version=nkjv][Matthew 9:17-19]]*
+*[[https://www.biblegateway.com/passage/?search=Matthew+19%3A17-19&version=NKJV][Matthew 19:17-19]]*
 #+begin_quote
 17 So He said to him, “Why do you call Me good? No one is good but One,
 that is, God. But if you want to enter into life, keep the commandments.”
