@@ -1,0 +1,424 @@
+#+exclude_tags: noexport
+#+tags: ['satisfied']
+#+draft: true
+#+title: Satisfied
+#+author: joshministers.com
+#+email: josh.ministers@gmail.com
+#+options: prop:t toc:nil
+
+* Brain storming :noexport:
+  When on campus, the thing I see the most is vanity. People living lives that
+  are constantly chasing after nothing, doing things that deep down they believe
+  will make them feel satisfied only to be dissappointed. True satisfaction can
+  only come from God.
+
+  Is that the point of access for a lot of colelge students? How can I make it
+  clear that if you don't live life with a God that you will ultimately be
+  wasting away.
+
+** How do we live satisfying lives?
+  Title: The Good Life
+
+  This would go into the garden of Eden
+
+  When we live life, are we living it in vanity? Do we do things because we want
+  to or just because it is expected of us?
+
+  First look at how God created humans to live,
+  - why they don't live this way anymore,
+  - what God said he would do to save them from the lives that they chose,
+  - How Jesus called us to live our lives
+  - How we can't do it, or struggle to
+  - He
+
+** DONE! The Good life!
+* Planning :noexport:
+  The study can be separated into sections that:
+
+  1. Make the case that we aren't living satisfying lives today.
+  2. Go back and see why we live unsatisfying lives
+  3. Examine the promise God made about the lives we will live
+  4. Look and see how Jesus taught us to live life
+     - 10 Commandments! Sabbath!
+     - Willing to lay down our lives. Accept Him into our lives and live for Him
+  5. Acknowledge that it's hard, and a struggle
+     - It's struggle since often we believe we know how to live our best lives
+     - I can give an example of how I constantly wanted to go some place but God
+       brought me other places that made my joy and growth so much more than I
+       could imagine
+  6. Know that we have to keep getting back up and pushing forward
+
+I think I may have to revisit this pretty often and reorganize how I speak about
+these topics or make the flow better, but that can be worked out!
+
+
+** The Original life
+- God wanted humans to experience life! To explore and see the world.
+- When we think of Christianity we so often think of it is a boring life, but God had the best intentions for humans!
+** The Promised life
+** The Good life
+** The Hard Life
+** The Redeemed Life
+* Next Up :noexport:
+** Fix up The unsatisfied life, grammar, quotes, formatting and what not
+** Do the Original life!
+* The Unsatisfied life
+** Prep :noexport:
+*** Are we satisfied?
+When thinking of it, this has a lot to do with hope!
+
+- Question! What's something you looked forward to a ton that ended up disappointing you?
+
+*** [[http://tenor:4040/#book_id=4&bookpos=epubcfi(/56/2/4/4/1:653)&fmt=EPUB&library_id=books&mode=read_book][CS Lewis on hope]] (Chapter 10 mere Christianity)
+  I think this goes into what CS Lewis talked about a desire that things cannot satisfy. We have a desire for food and there is such a thing as food, if I find myself a desire that I can't find satisfied on earth, the most probable explanation
+
+- I could give my testimony on how I lived my life unsatisfiedly. Tell it very
+  cinematically
+
+*** A good place to go from here is possibly Simone Weil's [[https://www.plough.com/en/topics/faith/devotional-reading/the-soul-knows-its-hunger]["The Soul knows Its Hunger"]]
+
+  - Lest it should persuade itself that it is not hungry
+
+    This is a parallel to what CS Lewis said abotu the person who just tells himself to stop crying for the moon
+
+    Humans certainly hunger, hunger for something
+
+  Then (or before) go into statistics about how people have live markedly unsatisfied lives.
+
+- The bible holds the reason why we live unsatisfied lives and how we are to get out of that
+
+  [[https://www.openbible.info/topics/unsatisfied][open bible info on vanity]]
+** Unsatisfied?
+Scripture:
+#+BEGIN_QUOTE
+10 I denied myself nothing my eyes desired; I refused my heart no pleasure. My
+heart took delight in all my labor, and this was the reward for all my toil. 11
+Yet when I surveyed all that my hands had done and what I had toiled to achieve,
+everything was meaningless, a chasing after the wind; nothing was gained under
+the sun.
+#+END_QUOTE
+**Ecclesiastes 2:10-11 (NIV)**
+
+**Q: What is something you looked forward to a ton only to be disappointed by it?**
+
+The first thing people typically notice about me is that I am pretty tall.
+Whenever people ask me if I play basketball I always respond with that I played
+in high School.
+
+Basketball was essentially the center of my life. I practiced almost every day
+of the week, because of that I was either late or didn't attend church for a
+large swath of my life. But my team was pretty good and I was the starting center.
+
+My Junior year, typically the most important year for high school athletes, our
+team went really far and ended up winning the State Championship in Virginia.
+This was the first time in our school's history as well as the first time in
+about twenty years in our city .
+
+In the locker room following our win the attitude in the room wasn't excited, it
+was dull at best. I remember one of our teammates looking over to me and saying
+"I'm waiting for it to set in!". Weeks later, when we were reunioning in the
+coach's classroom to talk about steps going forward, the coach admitted to
+everyone that he was "still waiting for it to set in". Needless to say, as far
+as I know it never set in for many of my teammates, and it never did for me
+either.
+
+The fact that winning a State Championship did not give me a sense of "I've made
+it" was immensely unsatisifying to me. This was the climatic moment for any high
+school athlete, **and all I felt was tired**.
+
+#+BEGIN_QUOTE
+11 Yet when I surveyed all that my hands had done and what I had toiled to
+achieve, everything was meaningless, a chasing after the wind; nothing was
+gained under the sun.
+#+END_QUOTE
+**Ecclesiastes 2:11**
+** We do live unsatisfied
+**Q: What percent of Americans say they are happy?**
+
+Only **14%** of Americans stated that they were happy during 2020.
+
+It being an odd year because of Covid doesn't diminish from the fact that people
+have historically been unhappy in life, only **30%** were found to be happy
+during the same survey done in 2018. [[https://www.nbcnews.com/politics/politics-news/americans-are-unhappiest-they-ve-been-50-years-poll-finds-n1231153][Source]].
+
+Half of all Americans state that they are very satisfied with their job
+according to [[https://www.pewresearch.org/social-trends/2016/10/06/3-how-americans-view-their-jobs/][Pew research]]. The other half of americans only being somewhat to
+very disatisfied with their jobs.
+
+It becomes obvious that, as a people, we have struggled to find satisfaction in
+life.
+
+** We CAN be satisfied, in certain ways
+The extreme that people may get from seeing statistics like this is that humans
+can never be satisfied. We can be satisfied in many areas though!
+
+For example, when you have a desire to be innovative it can be satisfied by
+creating. When you have a desire to give it can be satisfied by giving a gift.
+
+**Q: What are moments in life which you find yourself the most satisfied?**
+
+Don't feel pushed to give a markedly holy answer such as when I'm serving the
+poor, which is very much so a legitamate satisfaction.
+
+I hiked up the Big C, which is a hill (a mountain compared to what I am used to)
+in Berkeley, and got to see a beautiful display of the city as the sun set one
+friday evening. When I set out just an hour or so before to walk up this
+mountain I had a desire to se grandeur, a desire to see beauty. Gazing at how
+the red clouds balanced themselves over the Golden Gate Bridge set upon a
+backdrop of cloudy mountains in my inmost heart satisfied a reoccuring desire
+that I have, to see beauty.
+
+The problem is not that we can't feel satisfied whatsoever, but that we try to
+satisfy a deep desire with things that were never meant to satisfy it.
+
+If a man has a desire for innovation, watching a nice sunset is very unlikely to
+satisfy it. Using something more concrete, if a man were to have a desire for a
+good meal or food, telling him to build a cabin is unlikely to please him.
+
+** A deeper calling
+
+I would like to argue that in our lives, there is a desire, a deep calling for
+something, that we often have tried filling with things that were never meant to
+fill it. There is a deep calling. We try to fill it with our careers, or filling
+it people and jump from relationship to relationship. Or we try filling it
+through service to one another, but it is never satisfied.
+
+** Satisfying the Cry with the World
+
+C.S Lewis talks about this cry in chapter 10 of his book Mere Christianity
+#+BEGIN_QUOTE
+Most people, if they had really learned to look into their own hearts, would
+know that they do want, and want acutely, something that cannot be had in this
+world. There are all sorts of things in this world that offer to give it to you,
+but they never quite keep their promise.
+#+END_QUOTE
+
+Every time we try something new or get into something which brings us immense
+joy, we often venture to say "this is that which will satisfy me".
+
+#+begin_quote
+The longings which arise in us when we first fall in love, or first think of
+some foreign country, or first take up some subject that excites us, are
+longings which no marriage, no travel, no learning, can really satisfy.
+#+end_quote
+
+They all end up disappointing when we try finding our meaning within them
+
+Lewis descibres 3 ways we can handle this disappointment
+
+1. "The Fools Way"
+
+   The fools way says to just try something different. If you're not satisfied
+   with your current spouse, divorce them and try another. If this job grows
+   boring, quit it and do another. The fool's way is a constant thrill of saying
+   "I've found it! That which gives my life meaning" only to become disappointed
+   and end up moving on soon after
+
+2. The cynic's way
+   #+begin_quote
+   He soon decides that the whole thing was moonshine. “Of course,” he says,
+   “one feels like that when one’s young. But by the time you get to my age
+   you’ve given up chasing the rainbow’s end.” And so he settles down and learns
+   not to expect too much and **represses the part of himself which used, as he
+   would say, “to cry for the moon.”**
+   #+end_quote
+
+   The way of the 'Disillusioned “Sensible Man.”' as Lewis calls it is to
+   repress that which calls out within you. To give up trying to be satisfied.
+   And that's dangerous. Since what if that thing which will finally give our
+   lives meaning is actually out there?
+
+   #+begin_quote
+   The soul knows for certain only that it is hungry. The important thing is that
+   it announces its hunger by crying. A child does not stop crying if we suggest to
+   it that perhaps there is no bread. It goes on crying just the same.
+
+   The danger is not lest the soul should doubt whether there is any bread, but
+   lest, by a lie, it should persuade itself that it is not hungry. It can only
+   persuade itself of this by lying, for the reality of its hunger is not a belief,
+   it is a certainty.
+   #+end_quote
+   Simone Weil, [[https://www.plough.com/en/topics/faith/devotional-reading/the-soul-knows-its-hunger][The Soul Knows Its Hunger]]
+
+   The reason why humans keep up the endeavors is in search of that which will
+   satisfy our hunger for meaning. And this leads to the third way Lewis descibres
+   how we can respond to this hunger, the Christian way
+
+3. "Creatures are not born with desires unless satisfaction for those desires exists"
+   #+begin_quote
+   A baby feels hunger: well, there is such a thing as food. A duckling wants to
+   swim: well, there is such a thing as water. Men feel sexual desire: well, there
+   is such a thing as sex. If I find in myself a desire which no experience in this
+   world can satisfy, the most probable explanation is that I was made for another
+   world. If none of my earthly pleasures satisfy it, that does not prove that the
+   universe is a fraud. Probably earthly pleasures were never meant to satisfy it
+   #+end_quote
+   **Mere Christianity**
+
+All of this is to say, there is satisfaction to those desires we have deep down
+inside, and the bible has the answer of how to live that satisfying life. It
+details what is required and what we need to set our hopes on in order to
+receive any measure of satisfaction in life.
+
+And to make it obvious, the desire that we have so acutely is God, a loving God
+and a future purpose.
+
+If what the bible says is true, and we'll explore exactly what the bible has to
+say about our meaning, then we have all reasons to believe that there is an
+answer that can satisfy our lives. I would like to attest that in my personal
+life, I have been able to experience this and I hope that at the very least you
+want to explore this.
+
+We have a desire, a want for God that when left unsatisfied can leave our whole
+existence wanting. The want for God cries out in a desire for Him and
+purposefulness. That it will not all just end as "chasing after the wind".
+
+#+BEGIN_QUOTE
+As the deer pants for streams of water, so my soul longs after You, O God.
+#+END_QUOTE
+Psalm 42:1 (BSB)
+
+Just as animals have a desire for water, we have a desire for God and
+purposefulness. And we'll see how those two things are greatly intertwined
+* The Original Life
+** Prep :noexport:
+All strife that we see in the world can be traced back to Adam and Eve.
+
+*Good Question*: What is the largest problem that you see in the world today.
+Make sure to say there's no particularly wrong answer haha. The question of why
+humans do this or that can be traced back to the Garden of Eden. Maybe later on
+explain that it's when humans try to define good on their own terms, what
+satisfies life
+
+This [[https://youtu.be/TJLan-pJzfQ][BibleProject video]] about the tree of life may be something great to link
+to!
+
+- God had an original vision for how we would live life, in the Garden of Eden
+- This life was perfect, God is the one who knows how to ultimately satisfy our
+  hearts and desires
+- God gave Adam and Eve so much that they could enjoy. They had love from God,
+  love from each other, they had a love for their work a vocation, they had a
+  large selection of fruits to eat from (God ruling from permission), they had
+  the world to explore, all of God's creation to try and understand.
+
+- God's desire for your life is just like this! He wants you to have joy! He
+  knows what will ultimately make you joyful!
+
+- If there is a God who knows what will make you joyful, wants to make you joyful,
+  and is capable of making you joyful. The logical thing is to follow that God.
+
+*Maybe change this language from joyful to purpose/meaningful*
+
+- When we try to fill our hearts desires in our own way, it leads to pain,
+  that's when Adam and Eve ate of the tree
+- This is the problem we see with human kind all so often, we try to satisfy
+  that deep desire our own way, when God is the one who knows what we want the
+  most in life.
+
+  Once Adam and Eve ate from the tree, they introduced something, which you may
+  have heard about, called sin.
+
+  Sin is defined in the bible is going away from God's ideal for life. God had
+  an ideal that He created for humans, but humans ended up straying from God's
+  ideal because they wanted to define good on their own terms. Thus entering sin
+  into the lives of humans.
+
+  To show how sin is a straying from God's ideal, we can look at women.
+
+  The bible is unique among all major religions.
+  - It is the ONLY major religion to mention women in the creation story
+    And it does so in an interesting way
+
+  God created men, women, and all people equal equal
+  - God created women from a bone out of Adam's side, indicating that they were
+    to be equals.
+  - Genesis 1:27 "So God created mankind in his own image, in the image of God he created
+    them; male and female he created them.""
+
+    He created both men and women in his image, He didn't create one more in his
+    images than another.
+
+    Galatians 3:28: "There is neither Jew nor Greek, there is neither slave nor
+    free, there is no male and female, for you are all one in Christ Jesus."
+
+    - Jew nor greek: no difference between races
+    - Slave nor free: slaves should not feel inferior to those free and free
+    shouldnt feel superior to the slaves
+    - No male and female: Men or women should not feel superior to the other.
+
+
+    This is speaking about all people. No one human, whether male, female, Jew,
+    Greek, is superior to another. There is equality between all people.
+
+    This is where the concept of equality came from, the Bible, the creation
+    story. But an interesting thing happens once men and women sin
+
+  *Genesis 3:16*
+  #+begin_quote
+  To the woman he said,
+
+  “I will make your pains in childbearing very severe;
+      with painful labor you will give birth to children.
+  Your desire will be for your husband,
+      and he will rule over you.”
+  #+end_quote
+
+  Once humans sinned, that's when men started ruling over women. Why? The reason
+  is because humans related to power away from the ideal God had for them. God
+  made Adam physically stronger than Eve, that was not a sign of superiority but
+  just that he made the differently but still equal. When humans sinned, they
+  started relating to power differently. The stronger rules over the weaker,
+  which is far far far from God's ideal. We see this from now on with stronger
+  nations subjecting weaker nations and women being mistreated all throughout
+  history.
+
+  This is sin, going away from the ideal that God has for life. And it causes
+  death, dissatisfaction, pain, tumolt. All of the problems we see in life is
+  because of this. When we try to define what is good in life.
+
+  And often what we see now is people choosing selfishness. Choosing to elevate
+  themselves over others. This is far far from the ideal God has for humans.
+
+  This is getting away from the main point. God has an ideal for humans, and
+  pain, disatisfaction, and all the problems in the world can be traced back to
+  us trying to define what is good and will satisfy ourselves. And looking at
+  humans, we most readily define what is good as what pleases our desires the
+  most, selfishness.
+
+  So God had an original life for humans, but we ruined to say the least to try
+  and define it for ourselves. But here he makes a promise in Genesis 3:15
+  #+begin_quote
+  15
+  And I will put enmity
+      between you and the woman,
+      and between your offspring[a] and hers;
+  he will crush[b] your head,
+      and you will strike his heel.”
+  #+end_quote
+  This seems unclear, but in the face of the selfishness, pride really, of
+  humans to try and define good on their own, God makes a promises of sending
+  someone to save humans.
+
+  The call to action is that we shouldn't try to define what will satisfy our
+  lives. When we try to satisfy it with things that ultimately lead to death,
+  greed, selfishness, chasing the money bag, we just hurt ourselves and leave
+  ourselves disatisfied.
+
+  - God has a plan though!
+
+So sin separated humans from God, but God didn't leave humans. He puts together
+this plan to bring humans back to the ideal. Not only to put humans back to the
+ideal but also demonstrate Who God is and how to live in this ideal, which is
+what we'll look out in the next study, but this passage in Isaiah prophecied
+Jesus' appearance
+
+This specific passage was written about 700 years before Jesus walked the earth
+
+*[[https://www.biblegateway.com/passage/?search=Isaiah+53&version=NIV][Isaiah 53 (NIV)]]*
+
+We see this promise iterated throughout the entire old testament, which was
+written from creation to about 400 years before Jesus was born.
+
+AN IMPORTANT THING TO BRING UP WITH JESUS IS THAT HE SHOWS THAT WE CAN TRUST GOD
+TO SUPPLY US WITH WHAT WE REALLY DESIRE SINCE HE DEMONSTRATED HOW MUCH HE LOVED
+US. THAT HE DIED FOR US!
