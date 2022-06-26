@@ -67,6 +67,7 @@ module.exports = withBundleAnalyzer({
     ]
   },
   webpack: (config, { dev, isServer }) => {
+    config.resolve.symlinks = false
     config.module.rules.push({
       test: /\.svg$/,
       use: ['@svgr/webpack'],
