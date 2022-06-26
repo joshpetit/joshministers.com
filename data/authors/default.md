@@ -3,7 +3,7 @@ name: Joshua Petitma
 avatar: /static/images/avatar.jpg
 occupation: Minister! Student, Software Developer
 #company: Duke University
-email: joshministers@gmail.com
+email: josh.ministers@gmail.com
 #twitter: https://twitter.com/josh_petitma
 #linkedin: https://www.linkedin.com/in/joshua-petitma/
 instagram: https://www.instagram.com/josh.ministers/
