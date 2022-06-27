@@ -13,9 +13,9 @@ const siteMetadata = {
   email: 'josh.ministers@gmail.com',
   github: 'https://github.com/joshpetit',
   //twitter: 'https://twitter.com/Twitter',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  //facebook: 'https://facebook.com',
+  youtube: 'https://www.youtube.com/channel/UC2kKMvqGeliazn-4S-k4ZFg',
+  //linkedin: 'https://www.linkedin.com',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
