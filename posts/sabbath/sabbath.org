@@ -36,11 +36,12 @@ A PDF version of this article is available as a reference [[asset:assets/sabbath
 
 Hope You are Blessed!
 
+
 * Reasons for the sabbath
 ** The Sabbath was instituted at creation for all time
 The Sabbath was first instituted at creation.
 
-*[[https://www.biblegateway.com/passage/?search=Genesis+2%3A2&version=NIV][Gensis 2:2 (NIV)]]*
+[[bible:Genesis 2:2 NIV]]
 #+begin_quote
 By the seventh day God had finished the work he had been doing; so on the
 seventh day he rested from all his work. 3 Then God blessed the seventh day and
