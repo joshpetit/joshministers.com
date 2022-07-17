@@ -1,9 +1,11 @@
 #+exclude_tags: noexport
-#+tags: ['satisfied']
+#+title: How do we get satisfaction in life?
 #+draft: true
-#+title: Satisfied
+#+date: 2022-07-01
 #+author: joshministers.com
 #+email: josh.ministers@gmail.com
+#+tags: ['satisfied']
+#+layout: PostSimple
 #+options: prop:t toc:nil
 
 * Brain storming :noexport:
@@ -422,3 +424,15 @@ written from creation to about 400 years before Jesus was born.
 AN IMPORTANT THING TO BRING UP WITH JESUS IS THAT HE SHOWS THAT WE CAN TRUST GOD
 TO SUPPLY US WITH WHAT WE REALLY DESIRE SINCE HE DEMONSTRATED HOW MUCH HE LOVED
 US. THAT HE DIED FOR US!
+** God's intention for our lives
+God's original vision for howe lived life was beautiful. If we look at how he
+originally created Adam and Eve,
+** Why are we as we are today?
+
+*Q: What is the largest problem that you see in the world today?*
+
+The reason why humans have whatever problem you listed can be traced back to the
+Garden of Eden.
+
+The bible project has an excellent video summarizing what caused humans to start
+living their lives to cause these problems: [[https://youtu.be/TJLan-pJzfQ][link]].
