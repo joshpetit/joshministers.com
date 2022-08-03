@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Josh Ministers',
   author: 'Joshua Petitma',
   headerTitle: 'Josh Ministers',
-  description: '',
+  description: 'A blog for life + faith based topics',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://joshministers.com',
