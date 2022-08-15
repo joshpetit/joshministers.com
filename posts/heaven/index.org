@@ -1,0 +1,14 @@
+#+exclude_tags: noexport
+#+title: Heaven
+#+author: joshministers.com
+#+email: josh.ministers@gmail.com
+#+date: 2022-06-25
+#+tags: ['heaven']
+#+draft: true
+#+layout: PostSimple
+#+options: prop:t todo:nil num:nil toc:nil
+
+* Planning :noexport:
+I want to dive into what heaven will be like. But I want to go around that, what
+will life be like before Jesus comes, what will happen when Jesus comes, and
+then what will it be like in heaven, and then post the 1000 years. I think
