@@ -1,0 +1,16 @@
+#+exclude_tags: noexport
+#+title: Miracles
+#+author: joshministers.com
+#+email: josh.ministers@gmail.com
+#+date: 2022-09-02
+#+draft: true
+#+tags: ['devotional', 'discussion']
+#+layout: PostSimple
+#+options: prop:t todo:nil num:nil toc:nil
+
+* Suffering
+A PDF version of this article is available [[asset:assets/Suffering.pdf][here]]
+
+Maybe need something a bit easier to help "break them in"
+
+1. What is something difficult that you are glad you went through?

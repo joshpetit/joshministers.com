@@ -1,0 +1,120 @@
+#+exclude_tags: noexport
+#+title: Sabbath History
+#+author: joshministers.com
+#+email: josh.ministers@gmail.com
+#+draft: false
+#+date: 2022-08-03
+#+tags: ['Sabbath']
+#+layout: PostSimple
+#+options: prop:t todo:nil num:nil toc:nil
+
+* Preparation :noexport:
+Go into:
+- What is the Sabbath?
+  Talk about the etymology of the word Sabbath, what times it is. Talk about
+  things you're not supposed to do and the verses that relate to that.
+- What is the Sabbath in Jewish history
+  Talk about the first time we see it kept in Jewish history
+  The Sabbath was kept all throughout the time of Jesus, but by the time we make
+  it to His time a lot of Jews had created extra rules "proxy rules" that made
+  Sabbath keeping difficult.
+
+  They made it very legalistic, to the point where (I've heard don't know if
+  this is true) that holding a handkerchief a certain kind of way could be
+  considered breaking the Sabbath.
+
+  Probably talk about Mark 2:23.
+- How did Jesus respond to these accroutrements to the Sabbath
+  He responded in multiple ways:
+   - [[bible:Matthew 12:11-12]]
+    #+begin_quote
+    11 But He said to them, “What man is there among you who has a sheep, and if it falls into a pit on the Sabbath, will he not take hold of it and lift it out? 12 How much more valuable then is a person than a sheep! So then, it is lawful to do good on the Sabbath.”
+    #+end_quote
+
+
+   - [[bible:Mark 2:27]]
+#+begin_quote
+27 Jesus said to them, “The Sabbath was made for man, and not man for the Sabbath.
+#+end_quote
+   - [[bible:Matthew 12:8]]
+#+begin_quote
+8 For the Son of Man is Lord of the Sabbath.
+#+end_quote
+
+- History of the Sabbath post-Jesus' death
+  This is from the moment Jesus died onward we see what happens to the Sabbath
+  - Right after Jesus' death, disciples follow the Sabbath
+    [[bible:Luke 23:55-56]]
+    #+begin_quote
+    55 Now the women who had come with Him from Galilee followed, and they saw the tomb and how His body was laid. 56 And then they returned and prepared spices and perfumes. And on the Sabbath they rested according to the commandment.
+    #+end_quote
+  - In Acts, the disciples are mentioned worshipping on Sabbath a lot
+    Acts 13:14, Acts 13:42, Acts 13:44, Acts 15:21, Acts 16:13, Acts 17:2,  Acts 18:4
+
+  - Post times mentioned in the bible
+
+    - In general, early Christians were first seen to keep the Sabbath
+      #+begin_quote
+      Early Christians, at first mainly Jewish, observed the seventh-day Sabbath with prayer and rest, but gathered on the seventh day, Saturday, reckoned in Jewish tradition as beginning, like the other days, at sunset on what would now be considered the Friday evening
+      #+end_quote
+      [[https://en.wikipedia.org/wiki/Sabbath_in_Christianity#cite_note-Ferguson2013-2][link]]
+
+    - Shift to Sunday
+
+    a little over 70 years after the death of Jesus is where we first start seeing
+    mentions of not keeping Sabbath.
+    Ignatius of Antioch is the first person we record talking about not keeping
+    the Sabbaths (markedly because of their Jewish origins)
+
+    Magnesians 9.1: “If then they who walked in ancient customs came to a new hope, no longer living for the Sabbath, but for the Lord’s Day, on which also our life sprang up through him and his death.”
+
+    This was written around 108 AD, close to the time og Ignatius' death
+
+    We also see people such as Justin Martyr advocate for not keeping the Sabbath
+    in readings like Dialogue with Trypho.
+
+
+
+    #+begin_quote
+    The Sabbath was replaced by Sunday as a result of three apostate influences in the second century: anti-Judaism, arising from the church’s separation from the synagogue; the influence of sun cults in the Roman empire, which led the church into making Sunday the holy day; and the church of Rome’s growing authority shown in changing the day.
+    #+end_quote
+     pg. 808 of the Encyclopedia of early Christianity
+
+   - Constatine the Great
+     The largest, most known, and notable aspect of Sabbath's post Jesus history is when Constatine the Great declared the changing of the Sabbath officially from Saturday to Sunday in 321 AD
+
+    “On the venerable day of the Sun let the magistrates and people residing in cities rest, and let all workshops be closed”
+
+    Codex Justinianus lib. 3, tit. 12, 3; trans. in Philip Schaff, History of the
+    Christian Church, Vol. 3, p. 380, note 1
+
+    From this time onward you do find many small pockets of Sabbitarians throughout the middle ages, but by this time most Christians are worshiping on Sunday.
+
+   - Sabbath in Post-Reformation Christian thought
+     Many people such as [[https://en.wikipedia.org/wiki/Sabbath_in_Christianity#Protestant_Reformation][Martin Luther]], [[https://www.the-ten-commandments.org/ten-commandments-john-wesley.html#Fourth][John Wesley]], [[http://theresurgencereport.com/resurgence/2013/09/17/spurgeon-on-the-ten-commandments][Charles
+     Spurgeon]], [[https://www.ccel.org/ccel/calvin/institutes.iv.ix.html][John Calvin]] spoke about following the 10 commandments including
+     the Sabbath, they differed however about how the Sabbath should be kept.
+
+   - Modern Day
+     Fast forward a couple hundred years and now you have quite a few Christian
+     denominations that follow the Seventh-day Sabbath. Among these contain the
+     largest: Seventh-day Adventists of whom I am a part of.
+
+     What does Sabbath observance look like amongst Seventh-day Adventists? It
+     varies! But the principal the Adventists follow generally is that the
+     Sabbath is a time to connect with God.
+
+     So somethings pointing towards this that Adventists typically do on
+     Sabbaths:
+     - Getting together Friday evenings for cooked dinners, fellowship and study
+     - Going to church on Saturday
+     - Volunteering (homeless shelters, kind acts)
+     - God in nature! (hiking, out on the lake, time with the community)
+     - Bon fires, guitars, closing the Sabbath with people you're close to.
+* Sabbath History
+
+Hope You are Blessed!
+
+** What is the Sabbath?
+Sabbath is a Hebrew term that literally means "to cease". The interpretation of
+this "ceasing" by many is "to rest".
