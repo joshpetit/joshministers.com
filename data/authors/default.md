@@ -1,6 +1,6 @@
 ---
 name: Joshua Petitma
-avatar: /static/images/avatar.jpg
+avatar: /static/images/smile.jpg
 occupation: Minister! Student, Software Developer
 #company: Duke University
 email: josh.ministers@gmail.com
