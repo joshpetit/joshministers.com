@@ -6,7 +6,7 @@ const siteMetadata = {
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://joshministers.com',
-  siteRepo: 'https://github.com/joshpetit/josh.ministers',
+  siteRepo: 'https://github.com/joshpetit/joshministers.com',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
@@ -14,7 +14,7 @@ const siteMetadata = {
   github: 'https://github.com/joshpetit',
   //twitter: 'https://twitter.com/Twitter',
   //facebook: 'https://facebook.com',
-  youtube: 'https://www.youtube.com/channel/UC2kKMvqGeliazn-4S-k4ZFg',
+  youtube: 'https://www.youtube.com/@joshpetit',
   //linkedin: 'https://www.linkedin.com',
   locale: 'en-US',
   analytics: {
