@@ -16,7 +16,18 @@ export default function Projects() {
             Bible Studies
           </h1>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-            Bible studies that I believe will help you grow your relationship with Christ
+            {projectsData.length == 0 && (
+              <span>
+                None yet, but checkout{' '}
+                <a
+                  style={{ textDecoration: 'underline' }}
+                  href="http://localhost:3000/blog/sabbath"
+                >
+                  this analysis
+                </a>{' '}
+                on why we should keep the Seventh-day Sabbath.
+              </span>
+            )}
           </p>
         </div>
         <div className="container py-12">

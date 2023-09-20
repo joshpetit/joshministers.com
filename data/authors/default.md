@@ -1,7 +1,7 @@
 ---
 name: Joshua Petitma
 avatar: /static/images/smile.jpg
-occupation: Minister! Student, Software Developer
+occupation: Hikes + Develops Software
 #company: Duke University
 email: josh.ministers@gmail.com
 #twitter: https://twitter.com/josh_petitma
@@ -10,22 +10,15 @@ instagram: https://www.instagram.com/josh.petitma/
 github: https://github.com/joshpetit
 ---
 
-## Mission
+### Mission
 
-I want to help people grow towards relationship
-with Christ that will make them **enjoy** life, **hope** for the future,
-and want to do something **amazing** every day!
+To invite others to experience with me the fullness of a life led by God
 
-I believe a relationship with Jesus is the foolproof way to not only get meaning
-out of your life but a level of enjoyment that cannot be matched.
+### About me
 
-## About me
+I'm currently studying at Duke in North Carolina. You can reach me by email at joshua@petit.dev
+or by instagram [@josh.petitma](https://www.instagram.com/josh.petitma/)
 
-I'm currently a student at Duke and help run a campus ministry called
-[trianglesda](https://trianglesda.org). This ministry is for anyone in the
-Raleigh area that's a college aged student, funded by the Adventist churches in
-the area.
-
-If you have any questions feel free to email me at
-joshministers@gmail.com or send me a message on instagram
-[@josh.petitma](https://www.instagram.com/josh.petitma/)
+I work on an app called [Bible Ram](https://bibleram.app) that helps people
+memorize the bible. Comitting scripture to memory has changed my life and will
+change yours too.
