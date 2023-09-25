@@ -2,6 +2,7 @@ import siteMetadata from '@/data/siteMetadata'
 import projectsData from '@/data/projectsData'
 import Card from '@/components/Card'
 import { PageSEO } from '@/components/SEO'
+import Link from 'next/link'
 
 export default function Projects() {
   return (
@@ -19,12 +20,9 @@ export default function Projects() {
             {projectsData.length == 0 && (
               <span>
                 None yet, but checkout{' '}
-                <a
-                  style={{ textDecoration: 'underline' }}
-                  href="http://localhost:3000/blog/sabbath"
-                >
-                  this analysis
-                </a>{' '}
+                <Link href="/blog/sabbath">
+                  <span className="underline hover:cursor-pointer">this analysis</span>
+                </Link>{' '}
                 on why we should keep the Seventh-day Sabbath.
               </span>
             )}
