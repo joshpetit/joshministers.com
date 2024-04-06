@@ -1,0 +1,276 @@
+#+exclude_tags: noexport
+#+title: Why believe the Bible?
+#+author: joshministers.com
+#+email: josh.ministers@gmail.com
+#+date: 2024-03-31
+#+tags: ['bible', 'apologetics', 'campus']
+#+draft: false
+#+layout: PostSimple
+#+options: prop:t todo:nil num:nil toc:nil
+
+* Introduction
+
+This is the first part of the ANEW Leader's Bible Study. A Bible study geared
+towards campus ministers to ensure they have the proper Biblical basis for what
+they believe in
+
+A PDF version of this article is available as a reference [[asset:assets/why-believe-bible.pdf][here]].
+
+Hope You are Blessed!
+
+* Why believe the Bible
+
+So the first set of studies we'll be having is a bit meta. Before we go in and
+understand the fundamentals of the Bible, we should take a look and see what
+reason there is in the first place to believe in the Bible. What's its
+importance and why is it relevant for our lives?
+
+I first want to open it up for discussion, let's split off into groups of 3 and
+see what each others thoughts are. If you were to argue for the Bible, what
+reasons would you give for its relevance today?
+
+Why should we believe the Bible
+- The way it changed the present
+- The way it predicted the future
+- The miracle it had in the past
+
+** The way it predicted the future
+A reason we can believe the Bible is also because of its prophetic nature.
+
+For example. The book of Mark was written sometime between 55-60 AD. There's a
+whole category of research that talks about seeing when the gospels were written
+that we won't get into.
+
+So in chapter 13 of mark it details an interesting history
+
+[[bible:Mark 13:1-2]]
+
+1 As He was going out of the temple, one of His disciples said to Him, “Teacher,
+behold what wonderful stones and what wonderful buildings!” 2 And Jesus said to
+him, "Do you see these great buildings? Not one stone will be left upon another
+which will not be torn down"
+
+Here, Jesus is talking about the temple in Jerusalem. This was a prophecy he
+made regarding its destruction. Jesus likely said these things around 30 AD, it
+was recorded down around 55-60AD, and then about 10 years after its recording in
+70AD the romans ransacked Jerusalem and destroyed their temple. Just as Jesus
+had prophesied.
+
+This is just one example of prophecies in the Bible.
+
+In the old testament we're also filled with prophecies that predict Jesus'
+coming.
+If we flip to [[bible: Isaiah 53:1-5]]
+
+#+begin_quote
+Who has believed our report?  And to whom has the arm of the Lord been revealed?  2 For He shall grow up before Him as a tender plant, And as a root out of dry ground.  He has no form or comeliness; And when we see Him, There is no beauty that we should desire Him.  3 He is despised and rejected by men, A Man of sorrows and acquainted with grief.  And we hid, as it were, our faces from Him; He was despised, and we did not esteem Him.
+
+4 Surely He has borne our griefs And carried our sorrows; Yet we esteemed Him stricken, Smitten by God, and afflicted.  5 But He was wounded for our transgressions, He was bruised for our iniquities; The chastisement for our peace was upon Him, And by His stripes we are healed.
+
+#+end_quote
+
+We can read about the "Sufering servant." The earliest manuscripts of Isaiah
+date at least 200 years before Jesus' birth and details to the tee the plan of
+salvation God had in Jesus' crucifixtion.
+
+A statician tried to calculate the probability that Jesus would fulfill as He
+did all the prophecies we see about Him in the old testament and it came out to
+a likelihood of one a many many trillions.
+
+The Jews at the time were not looking for a messiah figure like Jesus. They
+wanted someone to liberate them from the Romans and restore the kingdom of
+Israel to its former glory. The fact that Jews stuck with Him and the gospel
+exploded as it did points to the prophecies of the past coming to fulfillment in
+Christ.
+
+Not only that, there is actually a Bible prophecy that details the birth of
+Christ as well found in the book of Daniel. It's called the 70 week prophecy, I
+won't go into it today, but when looking at the historical context for the
+kingdom at the time it gives an exact year for the coming Christ. I'd recommend
+searching up Mark Finley's explanation of the 70 week prophecy as well as other
+online sources.
+
+[[bible:2 Peter 1:21]]
+#+begin_quote
+for no prophecy was ever made by an act of human will, but men moved by the Holy Spirit spoke from God.   
+#+end_quote
+
+And this all lends credibility to how the Bible is from God. And if the Bible is
+from God, we ought to take a look at the claims that it made.
+
+** The way it changed the present
+
+[[bible:2 Timothy 3:16-17]]
+
+#+begin_quote
+16 All Scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness, 17 that the man of God may be complete, thoroughly equipped for every good work.
+#+end_quote
+
+This scripture is the idea that the Bible is an inspired book, and everything
+within this book is useful for growing into the kinds of humans the Bible claims
+God designed us to be.
+
+And with that, the teachings in this book were antithetical to what the people
+in almost all contexts of the Bible believed. Later, we'll talk about the
+division between the old and new testament and the Bible's development.
+
+*** Monotheism
+
+For example, the Bible was written with the idea that there was only one
+God. This was the opposite of what many people believed in the anciet near
+east and Roman territory.
+
+Christians in the early church were actually called athiests because htey
+believed in one God and disbelieved all others. People at the itme found the
+idea of there not being a god of the mountain or a god of the sea deeply
+offensive. It was so offensive that Christianity for a long time was called
+"religio illicite" which means banned religion and they were persecuted for this
+strong belief.
+
+*** Humility
+
+The concept of humility on top of that was deemed as very strange. When these
+Christians were being persecuted, they would have stories about willingly giving
+themselves over. Rome was built on the idea of glory and dominance, so seeing
+the Christian church do lowly things such as inviting slaves to their feasts, or
+giving equality to one another was also found strange.
+
+[[bible:Phillippians 2:3]]
+
+#+begin_quote
+3 Let nothing be done through selfish ambition or conceit, but in lowliness of mind let each esteem others better than himself.
+#+end_quote
+
+*** Embarassement
+
+And to climax it all, the central person in the Bible, the person who the whole
+religion professes to follow, was clothed in humility. He wasn't born in a
+palance, like many other deities in other religions. He didn't have great
+wealth, nor vast kingdoms or huge military victories.
+
+It's not only that, but many of the most important figures in the Bible were
+revealed to be flawed as well. From David, to Moses, to one of the most
+important figures in the early church Peter who was shown to struggle in his
+faith in Jesus, to many other people that show embrassing human flaws.
+
+Most people who are making up a religion or want to create a religion to coerce
+people, would choose the central person in that religion to be someone of high
+repute. Not someone like Jesus who came with a message and ultimately died a
+humiliating death for this message.
+
+[[bible:Hebrews 12:2]]
+#+begin_quote
+2 looking unto Jesus, the author and finisher of our faith, who for the joy that was set before Him endured the cross, despising the shame, and has sat down at the right hand of the throne of God.
+#+end_quote
+
+This message that he spread was a message founded on love. And a love of a form
+not commonly spoken of.
+*** Love
+
+The Bible speaks about giving unconditonal love to those around us and to
+God. Jesus, the central figure in the Bible, emphasized the idea of looking to
+obey the underlying law of love. He came saying that God so loved the world that
+He gave Himself that no one should perish ([[bible:John 3:16]]).
+
+And not only that, He came saying that everyone needed to repent, to reorient
+themselves toward God in this new vision of love. This was a radical message for
+the people at the time.
+
+He came with a message that was filled with love and at the same time hard to
+accept since it required a radical transformation of life. A message that was
+both different and difficult.
+
+*** Put it together
+
+Okay, so here we have a case against Christianity. It's
+- Monotheists
+- Drenched in humility
+- Embarrassing
+- It focuses on love and surrender
+
+And guess what. This religion that was severely persecuted, that started in a
+small town in the middle of nowhere, exploded.
+
+It grew despite the persecution, And now today we have half the world professing
+to follow the Bible. This religion, that was so small and seemingly
+insignificant has changed the world so much that we deliminate time by the
+central figure's bith and deaht (b.c meaning before Christ) and A.D meaning in
+the day of our Lord.
+
+Discussion: How could Christianity and the Bible it followed grow so explosively
+despite all of these things that went against it?
+
+Thoughts:
+
+The Bible is either the largest hoax in human history that was able to resonate
+with people in innumerable contexts over the course of thousands of years
+
+/Or/ the Bible is from God and speaks on how we as humans ought to live as He has
+designed us.
+
+[[bible:2 Timothy 3:16-17]]
+
+#+begin_quote
+16 All Scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness, 17 that the man of God may be complete, thoroughly equipped for every good work. re
+#+end_quote
+
+** The miracle it had in the past
+
+And the last, and the most central, reason on why we should believe the Bible
+is the miracle that happened in the past: the ressurection of Jesus.
+
+The whole of Christianity hinges on this one thing: was Jesus raised from the
+dead or not? If He claimed to be the son of God, prophecied that He would die
+and ressurect and then go on to do just that, His claims on the Bible's
+authority is enough for us to believe in the Bible.
+
+So then a good question is, how do we know if He was resurrected from the dead?
+
+The first thing is that we can know that He was a real person. Christ is an
+historic, which means the vast majority of scholars believe that He was a real
+person that walked on earth. This is backed up by the multiple accounts we have
+of his life that happened so soon after the time that he walke don the
+earth. Accounts were written roughly thirty years after his death. This short
+span gives no time for a legend to form. The accounts list specific people who
+would have been alive at the time of the writing to cooberate the testimonies of
+the witnesses. If they wanted to make a legend, they would have written about
+someone who lived 200 years before, at a distance where no one could fact check
+their claims.
+
+** Conclude
+
+These are just three points that we've gone over on why the Bible ought to be
+believed.
+
+- The way that it predicted the future
+- The way it changed the present against all odds
+- And the miracle that it had in the past
+
+Another, very important, reason to believe the Bible is the transofmation in can
+do within you.
+
+The Bible doesn't just claim to be a history book. It claims to be a love letter
+from God to you on how to live in this broken world and overcome it through
+Him. When we open it up and read its pages it reads us and has councel and
+wisdom that we won't be able to fully uncover even after a lifetime or eternity
+of reading.
+
+The largest testimony to the credibility of the Bible to you personally is your
+testimony.
+
+People on your campus will be bolstered by knowing what are some of the factual,
+tangible reasons we can believe in the Bible. But people will never come to know
+Christ unless they make the step to experience Christ. And your own experience
+is an invitation for them to taste and see that the Lord is good.
+
+[[bible:Revelation 21:4]] says
+
+#+begin_quote
+And they overcame him (Satan) by the blood of the lamb and by the word of their
+testimony.
+#+end_quote
+
+That tesimony that God gives you, it's a powerful weapon. So let's go forth on
+our campuses knowing that we haven't just believed cleverly devised fables, but
+that we have experience the real God and that others can experience Him too by
+embracing the love and truth in this book.
